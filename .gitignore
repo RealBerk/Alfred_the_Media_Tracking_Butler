@@ -1,0 +1,18 @@
+# Oturum verileri (her kullanıcıya özel)
+media_data.json
+
+# Export çıktıları
+media_export.txt
+*.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# İşletim sistemi
+.DS_Store
+Thumbs.db
